@@ -1,0 +1,28 @@
+
+Matriz
+[elpepe
+]
+[etesech
+]
+[soncinco]
+
+Matriz padre :
+[-e-lp-ep-e
+-]
+[et-es-e-c-h
+]
+[s-o-nc-inc-o]
+
+Matriz madre:
+[-e-lpe-pe
+--]
+[et-e-s-ech-
+]
+[son-c-i-nc-o]
+
+Matriz hijo:
+[-e-lp|e-pe
+|---]
+[et-e-s|-e-c-h
+|]
+[s-o-nc|-i-nc-o|]
